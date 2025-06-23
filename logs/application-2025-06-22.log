@@ -1,0 +1,30 @@
+2025-06-22 01:53:54 info: Zoho CRM + Trello Integration Service started
+2025-06-22 01:53:54 info: Polling interval: 300000ms
+2025-06-22 01:53:54 info: Server running on port 3000
+2025-06-22 01:53:54 info: Visit http://localhost:3000 to check status
+2025-06-22 01:54:00 info: Scheduled sync started
+2025-06-22 01:54:00 info: Starting Zoho CRM to Trello sync...
+2025-06-22 01:54:03 info: Access token expired, attempting to refresh...
+2025-06-22 01:54:06 info: Access token refreshed successfully
+2025-06-22 01:54:08 error: Error fetching eligible deals: Request failed with status code 400
+2025-06-22 01:54:08 error: Error during sync process: Request failed with status code 400
+2025-06-22 01:54:08 error: Scheduled sync error: Request failed with status code 400
+2025-06-22 01:54:10 info: Scheduled sync started
+2025-06-22 01:54:10 info: Starting Zoho CRM to Trello sync...
+2025-06-22 01:54:12 error: Zoho API request error: Invalid query formed
+2025-06-22 01:54:12 error: Error fetching eligible deals: Request failed with status code 400
+2025-06-22 01:54:12 error: Error during sync process: Request failed with status code 400
+2025-06-22 01:54:12 error: Scheduled sync error: Request failed with status code 400
+2025-06-22 01:54:20 info: Scheduled sync started
+2025-06-22 01:54:20 info: Starting Zoho CRM to Trello sync...
+2025-06-22 01:54:26 error: Zoho API request error: Invalid query formed
+2025-06-22 01:54:26 error: Error fetching eligible deals: Request failed with status code 400
+2025-06-22 01:54:26 error: Error during sync process: Request failed with status code 400
+2025-06-22 01:54:26 error: Scheduled sync error: Request failed with status code 400
+2025-06-22 01:54:30 info: Scheduled sync started
+2025-06-22 01:54:30 info: Starting Zoho CRM to Trello sync...
+2025-06-22 01:54:32 error: Zoho API request error: Invalid query formed
+2025-06-22 01:54:32 error: Error fetching eligible deals: Request failed with status code 400
+2025-06-22 01:54:32 error: Error during sync process: Request failed with status code 400
+2025-06-22 01:54:32 error: Scheduled sync error: Request failed with status code 400
+2025-06-22 01:54:32 info: Shutting down gracefully...
