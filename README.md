@@ -72,7 +72,7 @@ To start the integration service, run the following command:
 npm start
 ```
 
-This will start the script, which runs on a schedule . By default, it runs every 10 seconds.
+This will start the script, which runs on a schedule . By default, it runs every 20 seconds.
 
 The script will look for deals in Zoho CRM that have:
 *   **Deal Stage** = `Project Kickoff`

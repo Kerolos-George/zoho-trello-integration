@@ -94,9 +94,9 @@ app.listen(PORT, () => {
   logger.info(`Visit http://localhost:${PORT} to check status`);
 });
 
-// Schedule the integration to run every 10 seconds
-const pollingInterval = process.env.POLLING_INTERVAL || 10000; // 10 seconds default
-cron.schedule('*/10 * * * * *', async () => {
+// Schedule the integration to run every 20 seconds
+const pollingInterval = process.env.POLLING_INTERVAL || 20000; // 20 seconds default
+cron.schedule('*/20 * * * * *', async () => {
   try {
     logger.info('Scheduled sync started');
     await integrationService.syncDealsToTrello();
